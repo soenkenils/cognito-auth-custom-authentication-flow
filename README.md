@@ -4,7 +4,7 @@ Four lambda triggers are used ([link to AWS documentation](https://docs.aws.amaz
 
 1. Pre-Sign-Up
 2. Define Challenge
-3. Create Challenge 
+3. Create Challenge
 4. Verify Challenge
 
 The first trigger auto-confirms users pre-sign-up. 
